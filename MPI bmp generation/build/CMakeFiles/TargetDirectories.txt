@@ -1,0 +1,6 @@
+/home/rohithj/Winter2021/HPC/project8/homework-8-rohithj494/build/CMakeFiles/rebuild_cache.dir
+/home/rohithj/Winter2021/HPC/project8/homework-8-rohithj494/build/CMakeFiles/edit_cache.dir
+/home/rohithj/Winter2021/HPC/project8/homework-8-rohithj494/build/CMakeFiles/mpi_advec_c.dir
+/home/rohithj/Winter2021/HPC/project8/homework-8-rohithj494/build/CMakeFiles/mpi_advec_cpp.dir
+/home/rohithj/Winter2021/HPC/project8/homework-8-rohithj494/build/CMakeFiles/serial_advec_c.dir
+/home/rohithj/Winter2021/HPC/project8/homework-8-rohithj494/build/CMakeFiles/serial_advec_cpp.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -pthread CMakeFiles/mpi_advec_cpp.dir/cpp/mpi_advec_main.cpp.o CMakeFiles/mpi_advec_cpp.dir/bitmap/bitmap.c.o  -o mpi_advec_cpp  -Wl,-rpath,/usr/lib/x86_64-linux-gnu/openmpi/lib /usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rohithj/Winter2021/HPC/project8/homework-8-rohithj494/bitmap/bitmap.c
+bitmap.h
+/home/rohithj/Winter2021/HPC/project8/homework-8-rohithj494/bitmap/bitmap.h
+stdlib.h
+-
+
+/home/rohithj/Winter2021/HPC/project8/homework-8-rohithj494/bitmap/bitmap.h
+stdint.h
+-
+stdio.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/serial_advec_c.dir/c/serial_advec_main.c.o CMakeFiles/serial_advec_c.dir/c/serial_advec_driver.c.o CMakeFiles/serial_advec_c.dir/c/simple_mat.c.o CMakeFiles/serial_advec_c.dir/bitmap/bitmap.c.o  -o serial_advec_c  -lm 
